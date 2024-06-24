@@ -1,1 +1,1 @@
-# einfacheTextanalyse
+# einfache Textanalyse
